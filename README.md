@@ -6,7 +6,7 @@
 
 <p align="center">Aplicativo para listar tarefas para o usuário. Desenvolvido durante o curso Android com Kotlin na udemy.</p>
 
-<h3 Features /?>
+<h3 Features />
 
 - [x] Cração de conta
 - [x] Login do usuário
@@ -16,3 +16,11 @@
 - [x] Prioridade de tarefas
 - [x] Edição de tarefas
 - [x] Remoção de tarefas
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/screenshot1.jpg" height="600" width="260"/>
+   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/screenshot2.jpg" height="600" width="260"/>
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/screenshot3.jpg" height="600" width="260"/>
+     <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/screenshot4.jpg" height="600" width="260"/>
+      <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/screenshot5.jpg" height="600" width="260"/>
